@@ -8,3 +8,5 @@ It´s a GUI which can train three types of Neural Networks:
 	- Extreme Learning Machine
 
 Developed in Python 3
+
+For usage, download the folder and run main.py file.
